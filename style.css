@@ -1,0 +1,21 @@
+body
+{
+  background-size: cover;
+}
+
+.heading
+{
+  width: 100%;
+  text-align: center;
+}
+
+.heading button
+{
+    float: right;
+    border-color: aliceblue;
+}
+
+.heading h3
+{
+    display: inline;
+}
